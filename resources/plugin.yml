@@ -1,0 +1,7 @@
+name: Transmogrifier
+main: com.minecarts.transmogrifier.Transmogrifier
+version: ${pom.version}
+website: http://minecarts.com
+author: Verrier
+description: >
+             Transform into various minecraft entities
